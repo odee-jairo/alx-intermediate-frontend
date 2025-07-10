@@ -1,0 +1,12 @@
+SASS INSTALLATION
+
+1. Install Node.js
+
+- Downloaded the node installation package on https://nodejs.org/en/download
+- Run the installation package
+- Open the command prompt and type "node -v" to check if node is installed
+
+2. Install SASS
+
+- Open the command prompt and type "npm install -g sass" to install SASS
+- Open the command prompt and type "sass --version" to check if SASS is installed
